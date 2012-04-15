@@ -5,7 +5,7 @@ A mad scientist has managed to clone himself... too many times. Only one shall r
 
 This is a WIP Multiplayer Game made with Node.js, HTML5 Canvas, jQuery, Socket.IO and Express.js
 
-It is based on [Default](https://github.com/Fabryz/default)
+It is based on [Mangonel](https://github.com/Fabryz/mangonel)
 
 Requirements
 ------------
